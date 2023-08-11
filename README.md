@@ -29,5 +29,4 @@ SCSS Uygulamanın görünümünü geliştirmeyi saglar.
 - Calisir Hali
 
  <img src="/src/assets/calisir-hali.gif" />
-# redux_toolkit_is_takip_projesi
-# redux_toolkit_is_takip_projesi
+
